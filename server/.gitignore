@@ -1,0 +1,6 @@
+#env files 
+.env
+#node modules 
+node_modules 
+#hide.md
+hide.md
